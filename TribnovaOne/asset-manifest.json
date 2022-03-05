@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9fdcf910.css",
+    "main.js": "/static/js/main.b7b17f5e.js",
+    "static/js/787.3c0b5007.chunk.js": "/static/js/787.3c0b5007.chunk.js",
+    "static/media/reactV.mp4": "/static/media/reactV.cf1b5aa4aa19cf431c29.mp4",
+    "static/media/demo.png": "/static/media/demo.d693f4fd055d6f475094.png",
+    "static/media/certificate.png": "/static/media/certificate.c5e4cc792a04af13ab86.png",
+    "static/media/Vicky.png": "/static/media/Vicky.de9738eb4240eaf19305.png",
+    "static/media/computerImage.jpeg": "/static/media/computerImage.4fdd3592257d176d7814.jpeg",
+    "static/media/Floward.png": "/static/media/Floward.421e8621aec0142d2dea.png",
+    "static/media/phase3.svg": "/static/media/phase3.85dbf2f3ce4ab498935e823b1d6685bb.svg",
+    "static/media/TopIntern.svg": "/static/media/TopIntern.589411050f06b36bf3d78107ff02d090.svg",
+    "static/media/TopInternFix.svg": "/static/media/TopInternFix.63d79f3d2cdd7111423762e13161b3f3.svg",
+    "static/media/phase1.svg": "/static/media/phase1.aeb1dd967f0ed3162eccd2c063310543.svg",
+    "static/media/Sulthana.svg": "/static/media/Sulthana.00fdd0f94df71cb1f357edad8095e69a.svg",
+    "static/media/grubtech.svg": "/static/media/grubtech.4490d7d5b9e6eae291687126190c936e.svg",
+    "static/media/phase2.svg": "/static/media/phase2.b02559aa78fc2b12eda7c34b3658cb9c.svg",
+    "static/media/phase4.svg": "/static/media/phase4.aefe784cfd45323333d14758ae3474ae.svg",
+    "static/media/ic-check.svg": "/static/media/ic-check.d43d8f7af9b2e2e30e02c953d7f44987.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.73618e1dc8c84765cadcda40cfedcb32.svg",
+    "static/media/github.svg": "/static/media/github.313704e215d0324df2f53dc3e46ca379.svg",
+    "static/media/google-color.svg": "/static/media/google-color.ea7174418615bb2b0b56a1ec41aa511d.svg",
+    "index.html": "/index.html",
+    "static/media/star.svg": "/static/media/star.901a9ef60df3a4002825d5a84de8c20c.svg",
+    "static/media/twitter.svg": "/static/media/twitter.10b5853ee7411a8fbd23dcbe280b2a2d.svg",
+    "static/media/facebook.svg": "/static/media/facebook.11798fd091d14dcbea9cc4810767a16d.svg",
+    "main.9fdcf910.css.map": "/static/css/main.9fdcf910.css.map",
+    "main.b7b17f5e.js.map": "/static/js/main.b7b17f5e.js.map",
+    "787.3c0b5007.chunk.js.map": "/static/js/787.3c0b5007.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdcf910.css",
+    "static/js/main.b7b17f5e.js"
+  ]
+}
